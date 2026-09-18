@@ -407,8 +407,6 @@ The project includes:
 
 **Hari Krishna R.**
 
-B.E. Civil Engineering — 2025 Graduate
-
 ### Focus Areas
 
 - Python
