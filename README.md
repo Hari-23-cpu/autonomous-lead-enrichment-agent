@@ -420,7 +420,7 @@ B.E. Civil Engineering — 2025 Graduate
 
 ### LinkedIn
 
-<YOUR_LINKEDIN_PROFILE>
+https://www.linkedin.com/in/hari-krishna-r-a9a09823a/
 
 ## License
 
