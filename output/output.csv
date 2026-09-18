@@ -1,0 +1,4 @@
+﻿domain,company_overview,target_audience,emails,leadership_team,linkedin_urls,contact_source_urls,confidence_score
+postman.com,"Postman is a platform for building and using APIs. It provides tools for API design, testing, and collaboration.",developers,info@postman.com,Abhinav Asthana - CEO,,https://postman.com/company/about-postman,0.8
+supabase.com,"Supabase provides an open-source Firebase alternative, offering a managed Postgres database with real-time subscriptions, authentication, and edge functions. It's designed for developers building scalable applications.",developers,,,,,0.48
+vapi.ai,"Vapi provides a unified platform for building, deploying, and improving voice agents. The platform offers orchestration, real-time monitoring, and enterprise-grade configurability, enabling rapid agent development and deployment.","developers, API teams, engineering teams, businesses",,,,,0.48
